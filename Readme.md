@@ -1,0 +1,1 @@
+### This is sample personal Azure Terraform module to create basic resources for learning purpose
